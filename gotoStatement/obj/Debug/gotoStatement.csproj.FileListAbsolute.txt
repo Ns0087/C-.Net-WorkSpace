@@ -1,0 +1,6 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\gotoStatement\bin\Debug\gotoStatement.exe.config
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\gotoStatement\bin\Debug\gotoStatement.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\gotoStatement\bin\Debug\gotoStatement.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\gotoStatement\obj\Debug\gotoStatement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\gotoStatement\obj\Debug\gotoStatement.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\gotoStatement\obj\Debug\gotoStatement.pdb
