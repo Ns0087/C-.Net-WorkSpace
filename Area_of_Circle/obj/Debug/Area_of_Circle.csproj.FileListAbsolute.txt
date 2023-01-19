@@ -1,0 +1,7 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Area_of_Circle\bin\Debug\Area_of_Circle.exe.config
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Area_of_Circle\bin\Debug\Area_of_Circle.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Area_of_Circle\bin\Debug\Area_of_Circle.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Area_of_Circle\obj\Debug\Area_of_Circle.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Area_of_Circle\obj\Debug\Area_of_Circle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Area_of_Circle\obj\Debug\Area_of_Circle.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Area_of_Circle\obj\Debug\Area_of_Circle.pdb
