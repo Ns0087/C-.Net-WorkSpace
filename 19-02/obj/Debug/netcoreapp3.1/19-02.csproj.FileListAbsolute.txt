@@ -1,0 +1,14 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\bin\Debug\netcoreapp3.1\19-02.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\bin\Debug\netcoreapp3.1\19-02.deps.json
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\bin\Debug\netcoreapp3.1\19-02.runtimeconfig.json
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\bin\Debug\netcoreapp3.1\19-02.runtimeconfig.dev.json
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\bin\Debug\netcoreapp3.1\19-02.dll
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\bin\Debug\netcoreapp3.1\19-02.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\obj\Debug\netcoreapp3.1\19-02.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\obj\Debug\netcoreapp3.1\19-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\obj\Debug\netcoreapp3.1\19-02.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\obj\Debug\netcoreapp3.1\19-02.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\obj\Debug\netcoreapp3.1\19-02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\obj\Debug\netcoreapp3.1\19-02.dll
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\obj\Debug\netcoreapp3.1\19-02.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\19-02\obj\Debug\netcoreapp3.1\19-02.genruntimeconfig.cache
