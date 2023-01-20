@@ -1,0 +1,7 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\ReadOnly Field\bin\Debug\ReadOnly Field.exe.config
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\ReadOnly Field\bin\Debug\ReadOnly Field.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\ReadOnly Field\bin\Debug\ReadOnly Field.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\ReadOnly Field\obj\Debug\ReadOnly Field.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\ReadOnly Field\obj\Debug\ReadOnly Field.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\ReadOnly Field\obj\Debug\ReadOnly Field.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\ReadOnly Field\obj\Debug\ReadOnly Field.pdb

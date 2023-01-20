@@ -1,0 +1,7 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\SetterGetter\bin\Debug\SetterGetter.exe.config
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\SetterGetter\bin\Debug\SetterGetter.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\SetterGetter\bin\Debug\SetterGetter.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\SetterGetter\obj\Debug\SetterGetter.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\SetterGetter\obj\Debug\SetterGetter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\SetterGetter\obj\Debug\SetterGetter.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\SetterGetter\obj\Debug\SetterGetter.pdb

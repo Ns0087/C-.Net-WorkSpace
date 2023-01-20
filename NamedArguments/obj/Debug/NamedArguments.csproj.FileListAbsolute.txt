@@ -1,0 +1,6 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\NamedArguments\bin\Debug\NamedArguments.exe.config
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\NamedArguments\bin\Debug\NamedArguments.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\NamedArguments\bin\Debug\NamedArguments.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\NamedArguments\obj\Debug\NamedArguments.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\NamedArguments\obj\Debug\NamedArguments.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\NamedArguments\obj\Debug\NamedArguments.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refKeyword\bin\Debug\refKeyword.exe.config
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refKeyword\bin\Debug\refKeyword.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refKeyword\bin\Debug\refKeyword.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refKeyword\obj\Debug\refKeyword.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refKeyword\obj\Debug\refKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refKeyword\obj\Debug\refKeyword.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refKeyword\obj\Debug\refKeyword.pdb

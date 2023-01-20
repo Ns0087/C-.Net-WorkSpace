@@ -1,0 +1,6 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\paramsKeyword\bin\Debug\paramsKeyword.exe.config
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\paramsKeyword\bin\Debug\paramsKeyword.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\paramsKeyword\bin\Debug\paramsKeyword.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\paramsKeyword\obj\Debug\paramsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\paramsKeyword\obj\Debug\paramsKeyword.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\paramsKeyword\obj\Debug\paramsKeyword.pdb

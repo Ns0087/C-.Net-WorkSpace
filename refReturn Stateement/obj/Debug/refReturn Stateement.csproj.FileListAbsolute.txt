@@ -1,0 +1,6 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refReturn Stateement\bin\Debug\refReturn Stateement.exe.config
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refReturn Stateement\bin\Debug\refReturn Stateement.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refReturn Stateement\bin\Debug\refReturn Stateement.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refReturn Stateement\obj\Debug\refReturn Stateement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refReturn Stateement\obj\Debug\refReturn Stateement.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\refReturn Stateement\obj\Debug\refReturn Stateement.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\DefaultParameter\bin\Debug\DefaultParameter.exe.config
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\DefaultParameter\bin\Debug\DefaultParameter.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\DefaultParameter\bin\Debug\DefaultParameter.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\DefaultParameter\obj\Debug\DefaultParameter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\DefaultParameter\obj\Debug\DefaultParameter.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\DefaultParameter\obj\Debug\DefaultParameter.pdb
