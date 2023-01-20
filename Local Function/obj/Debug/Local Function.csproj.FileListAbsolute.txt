@@ -1,0 +1,7 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Local Function\bin\Debug\Local Function.exe.config
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Local Function\bin\Debug\Local Function.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Local Function\bin\Debug\Local Function.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Local Function\obj\Debug\Local Function.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Local Function\obj\Debug\Local Function.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Local Function\obj\Debug\Local Function.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Local Function\obj\Debug\Local Function.pdb

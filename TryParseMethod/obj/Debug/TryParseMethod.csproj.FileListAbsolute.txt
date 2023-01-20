@@ -1,0 +1,7 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\TryParseMethod\bin\Debug\TryParseMethod.exe.config
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\TryParseMethod\bin\Debug\TryParseMethod.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\TryParseMethod\bin\Debug\TryParseMethod.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\TryParseMethod\obj\Debug\TryParseMethod.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\TryParseMethod\obj\Debug\TryParseMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\TryParseMethod\obj\Debug\TryParseMethod.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\TryParseMethod\obj\Debug\TryParseMethod.pdb
