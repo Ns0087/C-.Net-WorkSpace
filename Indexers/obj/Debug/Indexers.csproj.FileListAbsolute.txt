@@ -1,0 +1,7 @@
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Indexers\bin\Debug\Indexers.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Indexers\bin\Debug\Indexers.pdb
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Indexers\obj\Debug\Indexers.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Indexers\obj\Debug\Indexers.exe
+C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Indexers\obj\Debug\Indexers.pdb
