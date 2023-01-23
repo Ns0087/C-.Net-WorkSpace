@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual C# Programs\ObjectInitializer\bin\Debug\ObjectInitializer.exe.config
+C:\Users\Admin\Documents\Visual C# Programs\ObjectInitializer\bin\Debug\ObjectInitializer.exe
+C:\Users\Admin\Documents\Visual C# Programs\ObjectInitializer\bin\Debug\ObjectInitializer.pdb
+C:\Users\Admin\Documents\Visual C# Programs\ObjectInitializer\obj\Debug\ObjectInitializer.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual C# Programs\ObjectInitializer\obj\Debug\ObjectInitializer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual C# Programs\ObjectInitializer\obj\Debug\ObjectInitializer.exe
+C:\Users\Admin\Documents\Visual C# Programs\ObjectInitializer\obj\Debug\ObjectInitializer.pdb
