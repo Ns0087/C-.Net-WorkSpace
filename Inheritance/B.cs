@@ -19,5 +19,11 @@ namespace Inheritance
             base.methodA();
             Console.WriteLine("Class A method overridden in Class B");
         }
+
+        //Method Hiding
+        //internal new void methodA()
+        //{
+        //    Console.WriteLine("Class A method overridden in Class B");
+        //}
     }
 }

@@ -10,9 +10,8 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
-            B obj = new B();
+            A obj = new B();
             obj.methodA();
-            obj.methodB();
             Console.ReadKey();
         }
     }
