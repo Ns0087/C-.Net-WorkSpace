@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual C# Programs\Enumerations Example Library\bin\Debug\Enumerations Example Library.dll
+C:\Users\Admin\Documents\Visual C# Programs\Enumerations Example Library\bin\Debug\Enumerations Example Library.pdb
+C:\Users\Admin\Documents\Visual C# Programs\Enumerations Example Library\obj\Debug\Enumerations Example Library.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual C# Programs\Enumerations Example Library\obj\Debug\Enumerations Example Library.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual C# Programs\Enumerations Example Library\obj\Debug\Enumerations Example Library.dll
+C:\Users\Admin\Documents\Visual C# Programs\Enumerations Example Library\obj\Debug\Enumerations Example Library.pdb

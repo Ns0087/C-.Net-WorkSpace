@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual C# Programs\Generic Constraints Example\bin\Debug\Generic Constraints Example.exe.config
+C:\Users\Admin\Documents\Visual C# Programs\Generic Constraints Example\bin\Debug\Generic Constraints Example.exe
+C:\Users\Admin\Documents\Visual C# Programs\Generic Constraints Example\bin\Debug\Generic Constraints Example.pdb
+C:\Users\Admin\Documents\Visual C# Programs\Generic Constraints Example\obj\Debug\Generic Constraints Example.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual C# Programs\Generic Constraints Example\obj\Debug\Generic Constraints Example.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual C# Programs\Generic Constraints Example\obj\Debug\Generic Constraints Example.exe
+C:\Users\Admin\Documents\Visual C# Programs\Generic Constraints Example\obj\Debug\Generic Constraints Example.pdb

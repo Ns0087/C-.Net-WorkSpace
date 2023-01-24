@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Example\bin\Debug\Static Class Example.exe.config
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Example\bin\Debug\Static Class Example.exe
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Example\bin\Debug\Static Class Example.pdb
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Example\bin\Debug\Static Class Library.dll
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Example\bin\Debug\Static Class Library.pdb
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Example\obj\Debug\Static Class Example.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Example\obj\Debug\Static Class Example.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Example\obj\Debug\Static Class Example.csproj.CopyComplete
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Example\obj\Debug\Static Class Example.exe
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Example\obj\Debug\Static Class Example.pdb

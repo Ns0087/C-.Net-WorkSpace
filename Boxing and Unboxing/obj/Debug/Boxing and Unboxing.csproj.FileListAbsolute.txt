@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual C# Programs\Boxing and Unboxing\bin\Debug\Boxing and Unboxing.exe.config
+C:\Users\Admin\Documents\Visual C# Programs\Boxing and Unboxing\bin\Debug\Boxing and Unboxing.exe
+C:\Users\Admin\Documents\Visual C# Programs\Boxing and Unboxing\bin\Debug\Boxing and Unboxing.pdb
+C:\Users\Admin\Documents\Visual C# Programs\Boxing and Unboxing\obj\Debug\Boxing and Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual C# Programs\Boxing and Unboxing\obj\Debug\Boxing and Unboxing.exe
+C:\Users\Admin\Documents\Visual C# Programs\Boxing and Unboxing\obj\Debug\Boxing and Unboxing.pdb

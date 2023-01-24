@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static Class Example", "Static Class Example.csproj", "{4C1865F3-3515-4071-A4E7-554E4E69887F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static Class Library", "..\Static Class Library\Static Class Library.csproj", "{5A4C95BE-9F30-43F2-93B0-AB78F11DC743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1865F3-3515-4071-A4E7-554E4E69887F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1865F3-3515-4071-A4E7-554E4E69887F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1865F3-3515-4071-A4E7-554E4E69887F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1865F3-3515-4071-A4E7-554E4E69887F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4C95BE-9F30-43F2-93B0-AB78F11DC743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4C95BE-9F30-43F2-93B0-AB78F11DC743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4C95BE-9F30-43F2-93B0-AB78F11DC743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4C95BE-9F30-43F2-93B0-AB78F11DC743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87AB4A01-34C3-4181-B862-E57E07837A21}
+	EndGlobalSection
+EndGlobal

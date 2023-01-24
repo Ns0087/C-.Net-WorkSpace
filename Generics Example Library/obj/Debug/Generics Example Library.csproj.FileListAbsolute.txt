@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual C# Programs\Generics Example Library\bin\Debug\Generics Example Library.dll
+C:\Users\Admin\Documents\Visual C# Programs\Generics Example Library\bin\Debug\Generics Example Library.pdb
+C:\Users\Admin\Documents\Visual C# Programs\Generics Example Library\obj\Debug\Generics Example Library.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual C# Programs\Generics Example Library\obj\Debug\Generics Example Library.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual C# Programs\Generics Example Library\obj\Debug\Generics Example Library.dll
+C:\Users\Admin\Documents\Visual C# Programs\Generics Example Library\obj\Debug\Generics Example Library.pdb

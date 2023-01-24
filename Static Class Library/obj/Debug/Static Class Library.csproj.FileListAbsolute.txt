@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Library\bin\Debug\Static Class Library.dll
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Library\bin\Debug\Static Class Library.pdb
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Library\obj\Debug\Static Class Library.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Library\obj\Debug\Static Class Library.dll
+C:\Users\Admin\Documents\Visual C# Programs\Static Class Library\obj\Debug\Static Class Library.pdb
