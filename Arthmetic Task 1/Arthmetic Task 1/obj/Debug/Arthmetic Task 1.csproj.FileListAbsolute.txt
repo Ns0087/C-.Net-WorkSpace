@@ -1,8 +1,0 @@
-C:\Users\abhad\source\repos\Arthmetic Task 1\Arthmetic Task 1\bin\Debug\Arthmetic Task 1.exe.config
-C:\Users\abhad\source\repos\Arthmetic Task 1\Arthmetic Task 1\bin\Debug\Arthmetic Task 1.exe
-C:\Users\abhad\source\repos\Arthmetic Task 1\Arthmetic Task 1\bin\Debug\Arthmetic Task 1.pdb
-C:\Users\abhad\source\repos\Arthmetic Task 1\Arthmetic Task 1\obj\Debug\Arthmetic Task 1.csproj.AssemblyReference.cache
-C:\Users\abhad\source\repos\Arthmetic Task 1\Arthmetic Task 1\obj\Debug\Arthmetic Task 1.csproj.SuggestedBindingRedirects.cache
-C:\Users\abhad\source\repos\Arthmetic Task 1\Arthmetic Task 1\obj\Debug\Arthmetic Task 1.csproj.CoreCompileInputs.cache
-C:\Users\abhad\source\repos\Arthmetic Task 1\Arthmetic Task 1\obj\Debug\Arthmetic Task 1.exe
-C:\Users\abhad\source\repos\Arthmetic Task 1\Arthmetic Task 1\obj\Debug\Arthmetic Task 1.pdb

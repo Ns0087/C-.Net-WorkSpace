@@ -1,0 +1,8 @@
+C:\Users\abhad\Desktop\Nitin repos\C-Net-WorkSpace\Propert Matching\Propert Matching\obj\Debug\Propert Matching.csproj.AssemblyReference.cache
+C:\Users\abhad\Desktop\Nitin repos\C-Net-WorkSpace\Propert Matching\Propert Matching\obj\Debug\Propert Matching.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\Desktop\Nitin repos\C-Net-WorkSpace\Propert Matching\Propert Matching\obj\Debug\Propert Matching.csproj.CoreCompileInputs.cache
+C:\Users\abhad\Desktop\Nitin repos\C-Net-WorkSpace\Propert Matching\Propert Matching\bin\Debug\Propert Matching.exe.config
+C:\Users\abhad\Desktop\Nitin repos\C-Net-WorkSpace\Propert Matching\Propert Matching\bin\Debug\Propert Matching.exe
+C:\Users\abhad\Desktop\Nitin repos\C-Net-WorkSpace\Propert Matching\Propert Matching\bin\Debug\Propert Matching.pdb
+C:\Users\abhad\Desktop\Nitin repos\C-Net-WorkSpace\Propert Matching\Propert Matching\obj\Debug\Propert Matching.exe
+C:\Users\abhad\Desktop\Nitin repos\C-Net-WorkSpace\Propert Matching\Propert Matching\obj\Debug\Propert Matching.pdb
