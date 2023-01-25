@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EventsExample\\EventsExample",
+    "\\EventsExample\\EventsExample\\obj",
+    "\\EventsExample\\EventsExample\\obj\\Debug",
+    "\\Propert Matching\\Propert Matching",
+    "\\Propert Matching\\Propert Matching\\bin"
   ],
-  "SelectedNode": "\\C:\\Users\\abhad\\Desktop\\Nitin repos\\C-Net-WorkSpace",
+  "SelectedNode": "\\EventsExample",
   "PreviewInSolutionExplorer": false
 }
