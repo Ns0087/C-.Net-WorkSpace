@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern Matching Example", "Pattern Matching Example.csproj", "{750A77A9-CC17-4BC4-9DBB-DE07B5A9C089}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern Matching Library", "..\Pattern Matching Library\Pattern Matching Library.csproj", "{3B5A60B3-3599-408C-A5C2-5FE587510ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{750A77A9-CC17-4BC4-9DBB-DE07B5A9C089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750A77A9-CC17-4BC4-9DBB-DE07B5A9C089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750A77A9-CC17-4BC4-9DBB-DE07B5A9C089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750A77A9-CC17-4BC4-9DBB-DE07B5A9C089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5A60B3-3599-408C-A5C2-5FE587510ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5A60B3-3599-408C-A5C2-5FE587510ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5A60B3-3599-408C-A5C2-5FE587510ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5A60B3-3599-408C-A5C2-5FE587510ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC2A71F-1355-4015-A1C9-ECDA8DB2FE05}
+	EndGlobalSection
+EndGlobal
