@@ -1,0 +1,11 @@
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate\bin\Debug\Action Delegate.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate\bin\Debug\Action Delegate.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate\bin\Debug\Action Delegate.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate\bin\Debug\Action Delegate Library.dll
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate\bin\Debug\Action Delegate Library.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate\obj\Debug\Action Delegate.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate\obj\Debug\Action Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate\obj\Debug\Action Delegate.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate\obj\Debug\Action Delegate.csproj.CopyComplete
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate\obj\Debug\Action Delegate.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate\obj\Debug\Action Delegate.pdb

@@ -1,0 +1,6 @@
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Predicate Delegate\Predicate Delegate Library\bin\Debug\Predicate Delegate Library.dll
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Predicate Delegate\Predicate Delegate Library\bin\Debug\Predicate Delegate Library.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Predicate Delegate\Predicate Delegate Library\obj\Debug\Predicate Delegate Library.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Predicate Delegate\Predicate Delegate Library\obj\Debug\Predicate Delegate Library.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Predicate Delegate\Predicate Delegate Library\obj\Debug\Predicate Delegate Library.dll
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Predicate Delegate\Predicate Delegate Library\obj\Debug\Predicate Delegate Library.pdb

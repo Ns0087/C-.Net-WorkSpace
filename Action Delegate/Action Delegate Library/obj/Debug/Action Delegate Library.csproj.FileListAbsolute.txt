@@ -1,0 +1,6 @@
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate Library\bin\Debug\Action Delegate Library.dll
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate Library\bin\Debug\Action Delegate Library.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate Library\obj\Debug\Action Delegate Library.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate Library\obj\Debug\Action Delegate Library.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate Library\obj\Debug\Action Delegate Library.dll
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Action Delegate\Action Delegate Library\obj\Debug\Action Delegate Library.pdb
