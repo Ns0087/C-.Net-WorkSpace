@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B3E42928-92BC-499C-B017-8D1E814AF8FF}</ProjectGuid>
+    <ProjectGuid>{4B2EE382-28F7-43BE-8623-B51354C449D0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AutoImplementedEvents</RootNamespace>
-    <AssemblyName>AutoImplementedEvents</AssemblyName>
+    <RootNamespace>Inline_Lambda_Expression</RootNamespace>
+    <AssemblyName>Inline Lambda Expression</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AutoImplemented Library\AutoImplemented Library.csproj">
-      <Project>{953866bb-42f2-41c9-b6d5-7d734635f81b}</Project>
-      <Name>AutoImplemented Library</Name>
+    <ProjectReference Include="..\Inline Lambda Library\Inline Lambda Library.csproj">
+      <Project>{14992479-90f2-4d3c-9771-f03e5fdd9cda}</Project>
+      <Name>Inline Lambda Library</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,11 @@
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inline Lambda Expression\Inline Lambda Expression\bin\Debug\Inline Lambda Expression.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inline Lambda Expression\Inline Lambda Expression\bin\Debug\Inline Lambda Expression.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inline Lambda Expression\Inline Lambda Expression\bin\Debug\Inline Lambda Expression.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inline Lambda Expression\Inline Lambda Expression\bin\Debug\Inline Lambda Library.dll
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inline Lambda Expression\Inline Lambda Expression\bin\Debug\Inline Lambda Library.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inline Lambda Expression\Inline Lambda Expression\obj\Debug\Inline Lambda Expression.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inline Lambda Expression\Inline Lambda Expression\obj\Debug\Inline Lambda Expression.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inline Lambda Expression\Inline Lambda Expression\obj\Debug\Inline Lambda Expression.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inline Lambda Expression\Inline Lambda Expression\obj\Debug\Inline Lambda Expression.csproj.CopyComplete
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inline Lambda Expression\Inline Lambda Expression\obj\Debug\Inline Lambda Expression.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inline Lambda Expression\Inline Lambda Expression\obj\Debug\Inline Lambda Expression.pdb

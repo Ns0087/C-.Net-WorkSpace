@@ -1,0 +1,11 @@
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplementedEvents\bin\Debug\AutoImplementedEvents.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplementedEvents\bin\Debug\AutoImplementedEvents.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplementedEvents\bin\Debug\AutoImplementedEvents.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplementedEvents\bin\Debug\AutoImplemented Library.dll
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplementedEvents\bin\Debug\AutoImplemented Library.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplementedEvents\obj\Debug\AutoImplementedEvents.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplementedEvents\obj\Debug\AutoImplementedEvents.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplementedEvents\obj\Debug\AutoImplementedEvents.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplementedEvents\obj\Debug\AutoImplementedEvents.csproj.CopyComplete
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplementedEvents\obj\Debug\AutoImplementedEvents.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplementedEvents\obj\Debug\AutoImplementedEvents.pdb

@@ -1,23 +1,24 @@
-﻿using AutoImplemented_Library;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AutoImplemented_Library;
 
-namespace AutoImplementedEvents
+namespace Anonymous_Methods
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Subscriber subscriber = new Subscriber();
             Publisher publisher = new Publisher();
 
-            publisher.MyEvent += subscriber.Add;
+            publisher.MyEvent += delegate (int a, int b)
+            {
+                Console.WriteLine(a + b);
+            };
 
-            publisher.RaiseEvent(10, 20);
-
+            publisher.RaiseEvent(12, 45);
             Console.ReadKey();
         }
     }

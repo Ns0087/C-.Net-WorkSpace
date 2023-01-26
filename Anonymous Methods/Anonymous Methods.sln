@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoImplementedEvents", "AutoImplementedEvents\AutoImplementedEvents.csproj", "{B3E42928-92BC-499C-B017-8D1E814AF8FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous Methods", "Anonymous Methods\Anonymous Methods.csproj", "{EF290865-C137-408C-954C-E2CCFBC3CEF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoImplemented Library", "AutoImplemented Library\AutoImplemented Library.csproj", "{953866BB-42F2-41C9-B6D5-7D734635F81B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoImplemented Library", "..\AutoImplementedEvents\AutoImplemented Library\AutoImplemented Library.csproj", "{953866BB-42F2-41C9-B6D5-7D734635F81B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B3E42928-92BC-499C-B017-8D1E814AF8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B3E42928-92BC-499C-B017-8D1E814AF8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B3E42928-92BC-499C-B017-8D1E814AF8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B3E42928-92BC-499C-B017-8D1E814AF8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF290865-C137-408C-954C-E2CCFBC3CEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF290865-C137-408C-954C-E2CCFBC3CEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF290865-C137-408C-954C-E2CCFBC3CEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF290865-C137-408C-954C-E2CCFBC3CEF3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{953866BB-42F2-41C9-B6D5-7D734635F81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{953866BB-42F2-41C9-B6D5-7D734635F81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{953866BB-42F2-41C9-B6D5-7D734635F81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9F74672A-138C-4818-B09E-A756A891F6C7}
+		SolutionGuid = {344B257A-8420-4FCB-A8E9-CDE7FC65AD80}
 	EndGlobalSection
 EndGlobal

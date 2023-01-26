@@ -1,0 +1,6 @@
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplemented Library\bin\Debug\AutoImplemented Library.dll
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplemented Library\bin\Debug\AutoImplemented Library.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplemented Library\obj\Debug\AutoImplemented Library.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplemented Library\obj\Debug\AutoImplemented Library.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplemented Library\obj\Debug\AutoImplemented Library.dll
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\AutoImplementedEvents\AutoImplemented Library\obj\Debug\AutoImplemented Library.pdb

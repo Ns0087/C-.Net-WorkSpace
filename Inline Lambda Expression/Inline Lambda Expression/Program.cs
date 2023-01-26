@@ -1,22 +1,21 @@
-﻿using AutoImplemented_Library;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Inline_Lambda_Library;
 
-namespace AutoImplementedEvents
+namespace Inline_Lambda_Expression
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Subscriber subscriber = new Subscriber();
             Publisher publisher = new Publisher();
 
-            publisher.MyEvent += subscriber.Add;
+            publisher.MyEvent += (a, b) => a + b;
 
-            publisher.RaiseEvent(10, 20);
+            Console.WriteLine(publisher.RaiseEvent(20, 13));
 
             Console.ReadKey();
         }
