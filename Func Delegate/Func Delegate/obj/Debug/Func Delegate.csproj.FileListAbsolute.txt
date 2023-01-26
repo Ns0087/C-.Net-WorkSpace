@@ -1,0 +1,11 @@
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Func Delegate\Func Delegate\bin\Debug\Func Delegate.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Func Delegate\Func Delegate\bin\Debug\Func Delegate.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Func Delegate\Func Delegate\bin\Debug\Func Delegate.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Func Delegate\Func Delegate\bin\Debug\Func Delegate Library.dll
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Func Delegate\Func Delegate\bin\Debug\Func Delegate Library.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Func Delegate\Func Delegate\obj\Debug\Func Delegate.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Func Delegate\Func Delegate\obj\Debug\Func Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Func Delegate\Func Delegate\obj\Debug\Func Delegate.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Func Delegate\Func Delegate\obj\Debug\Func Delegate.csproj.CopyComplete
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Func Delegate\Func Delegate\obj\Debug\Func Delegate.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Func Delegate\Func Delegate\obj\Debug\Func Delegate.pdb
