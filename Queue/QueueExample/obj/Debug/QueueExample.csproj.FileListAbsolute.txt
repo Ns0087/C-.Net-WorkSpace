@@ -1,0 +1,15 @@
+c:\CSharp\QueueExample\QueueExample\bin\Debug\QueueExample.exe.config
+c:\CSharp\QueueExample\QueueExample\bin\Debug\QueueExample.exe
+c:\CSharp\QueueExample\QueueExample\bin\Debug\QueueExample.pdb
+c:\CSharp\QueueExample\QueueExample\obj\Debug\QueueExample.csprojAssemblyReference.cache
+c:\CSharp\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+c:\CSharp\QueueExample\QueueExample\obj\Debug\QueueExample.exe
+c:\CSharp\QueueExample\QueueExample\obj\Debug\QueueExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Queue\QueueExample\bin\Debug\QueueExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Queue\QueueExample\bin\Debug\QueueExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Queue\QueueExample\bin\Debug\QueueExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Queue\QueueExample\obj\Debug\QueueExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Queue\QueueExample\obj\Debug\QueueExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Queue\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Queue\QueueExample\obj\Debug\QueueExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Queue\QueueExample\obj\Debug\QueueExample.pdb
