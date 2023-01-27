@@ -1,0 +1,15 @@
+C:\CSharp\IndexOfListExample\IndexOfListExample\bin\Debug\IndexOfListExample.exe.config
+C:\CSharp\IndexOfListExample\IndexOfListExample\bin\Debug\IndexOfListExample.exe
+C:\CSharp\IndexOfListExample\IndexOfListExample\bin\Debug\IndexOfListExample.pdb
+C:\CSharp\IndexOfListExample\IndexOfListExample\obj\Debug\IndexOfListExample.csprojAssemblyReference.cache
+C:\CSharp\IndexOfListExample\IndexOfListExample\obj\Debug\IndexOfListExample.csproj.CoreCompileInputs.cache
+C:\CSharp\IndexOfListExample\IndexOfListExample\obj\Debug\IndexOfListExample.exe
+C:\CSharp\IndexOfListExample\IndexOfListExample\obj\Debug\IndexOfListExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\IndexOf,+BinarySearch,+Contains\IndexOfListExample\bin\Debug\IndexOfListExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\IndexOf,+BinarySearch,+Contains\IndexOfListExample\bin\Debug\IndexOfListExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\IndexOf,+BinarySearch,+Contains\IndexOfListExample\bin\Debug\IndexOfListExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\IndexOf,+BinarySearch,+Contains\IndexOfListExample\obj\Debug\IndexOfListExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\IndexOf,+BinarySearch,+Contains\IndexOfListExample\obj\Debug\IndexOfListExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\IndexOf,+BinarySearch,+Contains\IndexOfListExample\obj\Debug\IndexOfListExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\IndexOf,+BinarySearch,+Contains\IndexOfListExample\obj\Debug\IndexOfListExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\IndexOf,+BinarySearch,+Contains\IndexOfListExample\obj\Debug\IndexOfListExample.pdb

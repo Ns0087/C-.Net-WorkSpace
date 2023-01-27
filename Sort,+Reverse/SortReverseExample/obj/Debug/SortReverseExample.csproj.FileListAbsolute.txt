@@ -1,0 +1,7 @@
+c:\CSharp\SortReverseExample\SortReverseExample\bin\Debug\SortReverseExample.exe.config
+c:\CSharp\SortReverseExample\SortReverseExample\bin\Debug\SortReverseExample.exe
+c:\CSharp\SortReverseExample\SortReverseExample\bin\Debug\SortReverseExample.pdb
+c:\CSharp\SortReverseExample\SortReverseExample\obj\Debug\SortReverseExample.csprojAssemblyReference.cache
+c:\CSharp\SortReverseExample\SortReverseExample\obj\Debug\SortReverseExample.csproj.CoreCompileInputs.cache
+c:\CSharp\SortReverseExample\SortReverseExample\obj\Debug\SortReverseExample.exe
+c:\CSharp\SortReverseExample\SortReverseExample\obj\Debug\SortReverseExample.pdb

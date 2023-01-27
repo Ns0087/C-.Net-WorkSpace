@@ -1,0 +1,15 @@
+C:\CSharp\InsertExample\InsertExample\bin\Debug\InsertExample.exe.config
+C:\CSharp\InsertExample\InsertExample\bin\Debug\InsertExample.exe
+C:\CSharp\InsertExample\InsertExample\bin\Debug\InsertExample.pdb
+C:\CSharp\InsertExample\InsertExample\obj\Debug\InsertExample.csprojAssemblyReference.cache
+C:\CSharp\InsertExample\InsertExample\obj\Debug\InsertExample.csproj.CoreCompileInputs.cache
+C:\CSharp\InsertExample\InsertExample\obj\Debug\InsertExample.exe
+C:\CSharp\InsertExample\InsertExample\obj\Debug\InsertExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Insert,+InsertRange\InsertExample\bin\Debug\InsertExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Insert,+InsertRange\InsertExample\bin\Debug\InsertExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Insert,+InsertRange\InsertExample\bin\Debug\InsertExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Insert,+InsertRange\InsertExample\obj\Debug\InsertExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Insert,+InsertRange\InsertExample\obj\Debug\InsertExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Insert,+InsertRange\InsertExample\obj\Debug\InsertExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Insert,+InsertRange\InsertExample\obj\Debug\InsertExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Insert,+InsertRange\InsertExample\obj\Debug\InsertExample.pdb

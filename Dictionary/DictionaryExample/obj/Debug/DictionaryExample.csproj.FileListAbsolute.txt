@@ -1,0 +1,15 @@
+C:\CSharp\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+C:\CSharp\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe
+C:\CSharp\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.pdb
+C:\CSharp\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csprojAssemblyReference.cache
+C:\CSharp\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+C:\CSharp\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.exe
+C:\CSharp\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Dictionary\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Dictionary\DictionaryExample\bin\Debug\DictionaryExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Dictionary\DictionaryExample\bin\Debug\DictionaryExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Dictionary\DictionaryExample\obj\Debug\DictionaryExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Dictionary\DictionaryExample\obj\Debug\DictionaryExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Dictionary\DictionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Dictionary\DictionaryExample\obj\Debug\DictionaryExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Dictionary\DictionaryExample\obj\Debug\DictionaryExample.pdb

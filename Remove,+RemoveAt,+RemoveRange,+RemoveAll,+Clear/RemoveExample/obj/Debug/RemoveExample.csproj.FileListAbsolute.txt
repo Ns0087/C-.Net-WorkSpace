@@ -1,0 +1,15 @@
+C:\CSharp\RemoveExample\RemoveExample\bin\Debug\RemoveExample.exe.config
+C:\CSharp\RemoveExample\RemoveExample\bin\Debug\RemoveExample.exe
+C:\CSharp\RemoveExample\RemoveExample\bin\Debug\RemoveExample.pdb
+C:\CSharp\RemoveExample\RemoveExample\obj\Debug\RemoveExample.csprojAssemblyReference.cache
+C:\CSharp\RemoveExample\RemoveExample\obj\Debug\RemoveExample.csproj.CoreCompileInputs.cache
+C:\CSharp\RemoveExample\RemoveExample\obj\Debug\RemoveExample.exe
+C:\CSharp\RemoveExample\RemoveExample\obj\Debug\RemoveExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Remove,+RemoveAt,+RemoveRange,+RemoveAll,+Clear\RemoveExample\bin\Debug\RemoveExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Remove,+RemoveAt,+RemoveRange,+RemoveAll,+Clear\RemoveExample\bin\Debug\RemoveExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Remove,+RemoveAt,+RemoveRange,+RemoveAll,+Clear\RemoveExample\bin\Debug\RemoveExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Remove,+RemoveAt,+RemoveRange,+RemoveAll,+Clear\RemoveExample\obj\Debug\RemoveExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Remove,+RemoveAt,+RemoveRange,+RemoveAll,+Clear\RemoveExample\obj\Debug\RemoveExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Remove,+RemoveAt,+RemoveRange,+RemoveAll,+Clear\RemoveExample\obj\Debug\RemoveExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Remove,+RemoveAt,+RemoveRange,+RemoveAll,+Clear\RemoveExample\obj\Debug\RemoveExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Remove,+RemoveAt,+RemoveRange,+RemoveAll,+Clear\RemoveExample\obj\Debug\RemoveExample.pdb

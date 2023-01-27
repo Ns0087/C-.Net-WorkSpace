@@ -1,0 +1,7 @@
+C:\CSharp\AddExample\AddExample\bin\Debug\AddExample.exe.config
+C:\CSharp\AddExample\AddExample\bin\Debug\AddExample.exe
+C:\CSharp\AddExample\AddExample\bin\Debug\AddExample.pdb
+C:\CSharp\AddExample\AddExample\obj\Debug\AddExample.csprojAssemblyReference.cache
+C:\CSharp\AddExample\AddExample\obj\Debug\AddExample.csproj.CoreCompileInputs.cache
+C:\CSharp\AddExample\AddExample\obj\Debug\AddExample.exe
+C:\CSharp\AddExample\AddExample\obj\Debug\AddExample.pdb
