@@ -1,0 +1,7 @@
+C:\CSharp\IEnumerableExample\IEnumerableExample\bin\Debug\IEnumerableExample.exe.config
+C:\CSharp\IEnumerableExample\IEnumerableExample\bin\Debug\IEnumerableExample.exe
+C:\CSharp\IEnumerableExample\IEnumerableExample\bin\Debug\IEnumerableExample.pdb
+C:\CSharp\IEnumerableExample\IEnumerableExample\obj\Debug\IEnumerableExample.csprojAssemblyReference.cache
+C:\CSharp\IEnumerableExample\IEnumerableExample\obj\Debug\IEnumerableExample.csproj.CoreCompileInputs.cache
+C:\CSharp\IEnumerableExample\IEnumerableExample\obj\Debug\IEnumerableExample.exe
+C:\CSharp\IEnumerableExample\IEnumerableExample\obj\Debug\IEnumerableExample.pdb

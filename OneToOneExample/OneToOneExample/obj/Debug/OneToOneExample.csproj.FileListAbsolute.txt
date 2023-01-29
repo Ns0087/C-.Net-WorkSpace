@@ -1,0 +1,10 @@
+C:\CSharp\OneToOneExample\OneToOneExample\bin\Debug\OneToOneExample.exe.config
+C:\CSharp\OneToOneExample\OneToOneExample\bin\Debug\OneToOneExample.exe
+C:\CSharp\OneToOneExample\OneToOneExample\bin\Debug\OneToOneExample.pdb
+C:\CSharp\OneToOneExample\OneToOneExample\bin\Debug\ClassLibrary1.dll
+C:\CSharp\OneToOneExample\OneToOneExample\bin\Debug\ClassLibrary1.pdb
+C:\CSharp\OneToOneExample\OneToOneExample\obj\Debug\OneToOneExample.csprojAssemblyReference.cache
+C:\CSharp\OneToOneExample\OneToOneExample\obj\Debug\OneToOneExample.csproj.CoreCompileInputs.cache
+C:\CSharp\OneToOneExample\OneToOneExample\obj\Debug\OneToOneExample.csproj.CopyComplete
+C:\CSharp\OneToOneExample\OneToOneExample\obj\Debug\OneToOneExample.exe
+C:\CSharp\OneToOneExample\OneToOneExample\obj\Debug\OneToOneExample.pdb

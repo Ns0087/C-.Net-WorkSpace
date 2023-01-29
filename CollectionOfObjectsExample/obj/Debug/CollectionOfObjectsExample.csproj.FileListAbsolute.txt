@@ -1,0 +1,10 @@
+C:\CSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\CollectionOfObjectsExample.exe.config
+C:\CSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\CollectionOfObjectsExample.exe
+C:\CSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\CollectionOfObjectsExample.pdb
+C:\CSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\ClassLibrary1.dll
+C:\CSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\ClassLibrary1.pdb
+C:\CSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.csprojAssemblyReference.cache
+C:\CSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.csproj.CoreCompileInputs.cache
+C:\CSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.csproj.CopyComplete
+C:\CSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.exe
+C:\CSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.pdb

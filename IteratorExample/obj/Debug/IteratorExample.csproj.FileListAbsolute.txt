@@ -1,0 +1,7 @@
+C:\CSharp\IteratorExample\IteratorExample\bin\Debug\IteratorExample.exe.config
+C:\CSharp\IteratorExample\IteratorExample\bin\Debug\IteratorExample.exe
+C:\CSharp\IteratorExample\IteratorExample\bin\Debug\IteratorExample.pdb
+C:\CSharp\IteratorExample\IteratorExample\obj\Debug\IteratorExample.csproj.AssemblyReference.cache
+C:\CSharp\IteratorExample\IteratorExample\obj\Debug\IteratorExample.csproj.CoreCompileInputs.cache
+C:\CSharp\IteratorExample\IteratorExample\obj\Debug\IteratorExample.exe
+C:\CSharp\IteratorExample\IteratorExample\obj\Debug\IteratorExample.pdb

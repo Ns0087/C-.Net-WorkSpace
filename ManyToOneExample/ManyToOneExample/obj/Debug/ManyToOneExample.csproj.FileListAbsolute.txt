@@ -1,0 +1,10 @@
+C:\CSharp\ManyToOneExample\ManyToOneExample\bin\Debug\ManyToOneExample.exe.config
+C:\CSharp\ManyToOneExample\ManyToOneExample\bin\Debug\ManyToOneExample.exe
+C:\CSharp\ManyToOneExample\ManyToOneExample\bin\Debug\ManyToOneExample.pdb
+C:\CSharp\ManyToOneExample\ManyToOneExample\bin\Debug\ClassLibrary1.dll
+C:\CSharp\ManyToOneExample\ManyToOneExample\bin\Debug\ClassLibrary1.pdb
+C:\CSharp\ManyToOneExample\ManyToOneExample\obj\Debug\ManyToOneExample.csprojAssemblyReference.cache
+C:\CSharp\ManyToOneExample\ManyToOneExample\obj\Debug\ManyToOneExample.csproj.CoreCompileInputs.cache
+C:\CSharp\ManyToOneExample\ManyToOneExample\obj\Debug\ManyToOneExample.csproj.CopyComplete
+C:\CSharp\ManyToOneExample\ManyToOneExample\obj\Debug\ManyToOneExample.exe
+C:\CSharp\ManyToOneExample\ManyToOneExample\obj\Debug\ManyToOneExample.pdb
