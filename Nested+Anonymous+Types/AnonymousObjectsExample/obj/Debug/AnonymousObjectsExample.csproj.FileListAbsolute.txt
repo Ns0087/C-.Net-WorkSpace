@@ -1,0 +1,10 @@
+C:\CSharp\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\AnonymousObjectsExample.exe.config
+C:\CSharp\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\AnonymousObjectsExample.exe
+C:\CSharp\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\AnonymousObjectsExample.pdb
+C:\CSharp\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\ClassLibrary1.dll
+C:\CSharp\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\ClassLibrary1.pdb
+C:\CSharp\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.csprojAssemblyReference.cache
+C:\CSharp\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.csproj.CoreCompileInputs.cache
+C:\CSharp\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.csproj.CopyComplete
+C:\CSharp\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.exe
+C:\CSharp\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.pdb

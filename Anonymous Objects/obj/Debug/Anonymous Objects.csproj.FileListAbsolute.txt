@@ -1,0 +1,8 @@
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Anonymous Objects\bin\Debug\Anonymous Objects.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Anonymous Objects\bin\Debug\Anonymous Objects.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Anonymous Objects\bin\Debug\Anonymous Objects.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Anonymous Objects\obj\Debug\Anonymous Objects.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Anonymous Objects\obj\Debug\Anonymous Objects.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Anonymous Objects\obj\Debug\Anonymous Objects.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Anonymous Objects\obj\Debug\Anonymous Objects.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Anonymous Objects\obj\Debug\Anonymous Objects.pdb
