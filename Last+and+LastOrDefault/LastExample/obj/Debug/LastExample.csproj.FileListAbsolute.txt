@@ -1,0 +1,7 @@
+C:\CSharp\LastExample\LastExample\bin\Debug\LastExample.exe.config
+C:\CSharp\LastExample\LastExample\bin\Debug\LastExample.exe
+C:\CSharp\LastExample\LastExample\bin\Debug\LastExample.pdb
+C:\CSharp\LastExample\LastExample\obj\Debug\LastExample.csproj.AssemblyReference.cache
+C:\CSharp\LastExample\LastExample\obj\Debug\LastExample.csproj.CoreCompileInputs.cache
+C:\CSharp\LastExample\LastExample\obj\Debug\LastExample.exe
+C:\CSharp\LastExample\LastExample\obj\Debug\LastExample.pdb

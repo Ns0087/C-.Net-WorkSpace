@@ -1,0 +1,7 @@
+C:\CSharp\ElementAtExample\ElementAtExample\bin\Debug\ElementAtExample.exe.config
+C:\CSharp\ElementAtExample\ElementAtExample\bin\Debug\ElementAtExample.exe
+C:\CSharp\ElementAtExample\ElementAtExample\bin\Debug\ElementAtExample.pdb
+C:\CSharp\ElementAtExample\ElementAtExample\obj\Debug\ElementAtExample.csproj.AssemblyReference.cache
+C:\CSharp\ElementAtExample\ElementAtExample\obj\Debug\ElementAtExample.csproj.CoreCompileInputs.cache
+C:\CSharp\ElementAtExample\ElementAtExample\obj\Debug\ElementAtExample.exe
+C:\CSharp\ElementAtExample\ElementAtExample\obj\Debug\ElementAtExample.pdb

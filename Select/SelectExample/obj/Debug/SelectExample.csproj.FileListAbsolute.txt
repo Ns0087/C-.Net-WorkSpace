@@ -1,0 +1,7 @@
+C:\CSharp\SelectExample\SelectExample\bin\Debug\SelectExample.exe.config
+C:\CSharp\SelectExample\SelectExample\bin\Debug\SelectExample.exe
+C:\CSharp\SelectExample\SelectExample\bin\Debug\SelectExample.pdb
+C:\CSharp\SelectExample\SelectExample\obj\Debug\SelectExample.csproj.AssemblyReference.cache
+C:\CSharp\SelectExample\SelectExample\obj\Debug\SelectExample.csproj.CoreCompileInputs.cache
+C:\CSharp\SelectExample\SelectExample\obj\Debug\SelectExample.exe
+C:\CSharp\SelectExample\SelectExample\obj\Debug\SelectExample.pdb

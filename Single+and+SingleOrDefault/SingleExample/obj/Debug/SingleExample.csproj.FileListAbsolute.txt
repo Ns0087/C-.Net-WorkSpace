@@ -1,0 +1,7 @@
+C:\CSharp\SingleExample\SingleExample\bin\Debug\SingleExample.exe.config
+C:\CSharp\SingleExample\SingleExample\bin\Debug\SingleExample.exe
+C:\CSharp\SingleExample\SingleExample\bin\Debug\SingleExample.pdb
+C:\CSharp\SingleExample\SingleExample\obj\Debug\SingleExample.csproj.AssemblyReference.cache
+C:\CSharp\SingleExample\SingleExample\obj\Debug\SingleExample.csproj.CoreCompileInputs.cache
+C:\CSharp\SingleExample\SingleExample\obj\Debug\SingleExample.exe
+C:\CSharp\SingleExample\SingleExample\obj\Debug\SingleExample.pdb

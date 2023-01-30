@@ -1,0 +1,6 @@
+C:\CSharp\MinMaxExample\MinMaxExample\bin\Debug\MinMaxExample.exe.config
+C:\CSharp\MinMaxExample\MinMaxExample\bin\Debug\MinMaxExample.exe
+C:\CSharp\MinMaxExample\MinMaxExample\bin\Debug\MinMaxExample.pdb
+C:\CSharp\MinMaxExample\MinMaxExample\obj\Debug\MinMaxExample.csproj.CoreCompileInputs.cache
+C:\CSharp\MinMaxExample\MinMaxExample\obj\Debug\MinMaxExample.exe
+C:\CSharp\MinMaxExample\MinMaxExample\obj\Debug\MinMaxExample.pdb
