@@ -1,0 +1,7 @@
+C:\CSharp\StringForLoopExample\StringForLoopExample\bin\Debug\StringForLoopExample.exe.config
+C:\CSharp\StringForLoopExample\StringForLoopExample\bin\Debug\StringForLoopExample.exe
+C:\CSharp\StringForLoopExample\StringForLoopExample\bin\Debug\StringForLoopExample.pdb
+C:\CSharp\StringForLoopExample\StringForLoopExample\obj\Debug\StringForLoopExample.csproj.AssemblyReference.cache
+C:\CSharp\StringForLoopExample\StringForLoopExample\obj\Debug\StringForLoopExample.csproj.CoreCompileInputs.cache
+C:\CSharp\StringForLoopExample\StringForLoopExample\obj\Debug\StringForLoopExample.exe
+C:\CSharp\StringForLoopExample\StringForLoopExample\obj\Debug\StringForLoopExample.pdb

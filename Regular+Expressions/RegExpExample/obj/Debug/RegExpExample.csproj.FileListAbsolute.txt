@@ -1,0 +1,15 @@
+c:\CSharp\RegExpExample\RegExpExample\bin\Debug\RegExpExample.exe.config
+c:\CSharp\RegExpExample\RegExpExample\bin\Debug\RegExpExample.exe
+c:\CSharp\RegExpExample\RegExpExample\bin\Debug\RegExpExample.pdb
+c:\CSharp\RegExpExample\RegExpExample\obj\Debug\RegExpExample.csproj.AssemblyReference.cache
+c:\CSharp\RegExpExample\RegExpExample\obj\Debug\RegExpExample.csproj.CoreCompileInputs.cache
+c:\CSharp\RegExpExample\RegExpExample\obj\Debug\RegExpExample.exe
+c:\CSharp\RegExpExample\RegExpExample\obj\Debug\RegExpExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Regular+Expressions\RegExpExample\bin\Debug\RegExpExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Regular+Expressions\RegExpExample\bin\Debug\RegExpExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Regular+Expressions\RegExpExample\bin\Debug\RegExpExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Regular+Expressions\RegExpExample\obj\Debug\RegExpExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Regular+Expressions\RegExpExample\obj\Debug\RegExpExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Regular+Expressions\RegExpExample\obj\Debug\RegExpExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Regular+Expressions\RegExpExample\obj\Debug\RegExpExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Regular+Expressions\RegExpExample\obj\Debug\RegExpExample.pdb

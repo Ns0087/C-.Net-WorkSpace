@@ -1,0 +1,7 @@
+C:\CSharp\AddingDatesExample\AddingDatesExample\bin\Debug\AddingDatesExample.exe.config
+C:\CSharp\AddingDatesExample\AddingDatesExample\bin\Debug\AddingDatesExample.exe
+C:\CSharp\AddingDatesExample\AddingDatesExample\bin\Debug\AddingDatesExample.pdb
+C:\CSharp\AddingDatesExample\AddingDatesExample\obj\Debug\AddingDatesExample.csproj.AssemblyReference.cache
+C:\CSharp\AddingDatesExample\AddingDatesExample\obj\Debug\AddingDatesExample.csproj.CoreCompileInputs.cache
+C:\CSharp\AddingDatesExample\AddingDatesExample\obj\Debug\AddingDatesExample.exe
+C:\CSharp\AddingDatesExample\AddingDatesExample\obj\Debug\AddingDatesExample.pdb

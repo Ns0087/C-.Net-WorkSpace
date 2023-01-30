@@ -1,0 +1,7 @@
+C:\CSharp\ConvertingStringExample\ConvertingStringExample\bin\Debug\ConvertingStringExample.exe.config
+C:\CSharp\ConvertingStringExample\ConvertingStringExample\bin\Debug\ConvertingStringExample.exe
+C:\CSharp\ConvertingStringExample\ConvertingStringExample\bin\Debug\ConvertingStringExample.pdb
+C:\CSharp\ConvertingStringExample\ConvertingStringExample\obj\Debug\ConvertingStringExample.csproj.AssemblyReference.cache
+C:\CSharp\ConvertingStringExample\ConvertingStringExample\obj\Debug\ConvertingStringExample.csproj.CoreCompileInputs.cache
+C:\CSharp\ConvertingStringExample\ConvertingStringExample\obj\Debug\ConvertingStringExample.exe
+C:\CSharp\ConvertingStringExample\ConvertingStringExample\obj\Debug\ConvertingStringExample.pdb

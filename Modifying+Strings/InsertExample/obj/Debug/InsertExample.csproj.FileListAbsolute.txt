@@ -1,0 +1,7 @@
+c:\CSharp\InsertExample\InsertExample\bin\Debug\InsertExample.exe.config
+c:\CSharp\InsertExample\InsertExample\bin\Debug\InsertExample.exe
+c:\CSharp\InsertExample\InsertExample\bin\Debug\InsertExample.pdb
+c:\CSharp\InsertExample\InsertExample\obj\Debug\InsertExample.csproj.AssemblyReference.cache
+c:\CSharp\InsertExample\InsertExample\obj\Debug\InsertExample.csproj.CoreCompileInputs.cache
+c:\CSharp\InsertExample\InsertExample\obj\Debug\InsertExample.exe
+c:\CSharp\InsertExample\InsertExample\obj\Debug\InsertExample.pdb

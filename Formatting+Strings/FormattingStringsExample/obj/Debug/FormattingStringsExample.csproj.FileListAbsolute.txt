@@ -1,0 +1,15 @@
+c:\CSharp\FormattingStringsExample\FormattingStringsExample\bin\Debug\FormattingStringsExample.exe.config
+c:\CSharp\FormattingStringsExample\FormattingStringsExample\bin\Debug\FormattingStringsExample.exe
+c:\CSharp\FormattingStringsExample\FormattingStringsExample\bin\Debug\FormattingStringsExample.pdb
+c:\CSharp\FormattingStringsExample\FormattingStringsExample\obj\Debug\FormattingStringsExample.csproj.AssemblyReference.cache
+c:\CSharp\FormattingStringsExample\FormattingStringsExample\obj\Debug\FormattingStringsExample.csproj.CoreCompileInputs.cache
+c:\CSharp\FormattingStringsExample\FormattingStringsExample\obj\Debug\FormattingStringsExample.exe
+c:\CSharp\FormattingStringsExample\FormattingStringsExample\obj\Debug\FormattingStringsExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Formatting+Strings\FormattingStringsExample\bin\Debug\FormattingStringsExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Formatting+Strings\FormattingStringsExample\bin\Debug\FormattingStringsExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Formatting+Strings\FormattingStringsExample\bin\Debug\FormattingStringsExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Formatting+Strings\FormattingStringsExample\obj\Debug\FormattingStringsExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Formatting+Strings\FormattingStringsExample\obj\Debug\FormattingStringsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Formatting+Strings\FormattingStringsExample\obj\Debug\FormattingStringsExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Formatting+Strings\FormattingStringsExample\obj\Debug\FormattingStringsExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Formatting+Strings\FormattingStringsExample\obj\Debug\FormattingStringsExample.pdb

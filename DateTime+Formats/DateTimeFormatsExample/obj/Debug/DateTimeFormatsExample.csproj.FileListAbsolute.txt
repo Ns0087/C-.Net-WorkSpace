@@ -1,0 +1,15 @@
+C:\CSharp\DateTimeFormatsExample\DateTimeFormatsExample\bin\Debug\DateTimeFormatsExample.exe.config
+C:\CSharp\DateTimeFormatsExample\DateTimeFormatsExample\bin\Debug\DateTimeFormatsExample.exe
+C:\CSharp\DateTimeFormatsExample\DateTimeFormatsExample\bin\Debug\DateTimeFormatsExample.pdb
+C:\CSharp\DateTimeFormatsExample\DateTimeFormatsExample\obj\Debug\DateTimeFormatsExample.csproj.AssemblyReference.cache
+C:\CSharp\DateTimeFormatsExample\DateTimeFormatsExample\obj\Debug\DateTimeFormatsExample.csproj.CoreCompileInputs.cache
+C:\CSharp\DateTimeFormatsExample\DateTimeFormatsExample\obj\Debug\DateTimeFormatsExample.exe
+C:\CSharp\DateTimeFormatsExample\DateTimeFormatsExample\obj\Debug\DateTimeFormatsExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\DateTime+Formats\DateTimeFormatsExample\bin\Debug\DateTimeFormatsExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\DateTime+Formats\DateTimeFormatsExample\bin\Debug\DateTimeFormatsExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\DateTime+Formats\DateTimeFormatsExample\bin\Debug\DateTimeFormatsExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\DateTime+Formats\DateTimeFormatsExample\obj\Debug\DateTimeFormatsExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\DateTime+Formats\DateTimeFormatsExample\obj\Debug\DateTimeFormatsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\DateTime+Formats\DateTimeFormatsExample\obj\Debug\DateTimeFormatsExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\DateTime+Formats\DateTimeFormatsExample\obj\Debug\DateTimeFormatsExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\DateTime+Formats\DateTimeFormatsExample\obj\Debug\DateTimeFormatsExample.pdb
