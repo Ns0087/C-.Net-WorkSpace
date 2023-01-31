@@ -1,0 +1,7 @@
+C:\CSharp\CatchWhenExample\CatchWhenExample\bin\Debug\CatchWhenExample.exe.config
+C:\CSharp\CatchWhenExample\CatchWhenExample\bin\Debug\CatchWhenExample.exe
+C:\CSharp\CatchWhenExample\CatchWhenExample\bin\Debug\CatchWhenExample.pdb
+C:\CSharp\CatchWhenExample\CatchWhenExample\obj\Debug\CatchWhenExample.csproj.AssemblyReference.cache
+C:\CSharp\CatchWhenExample\CatchWhenExample\obj\Debug\CatchWhenExample.csproj.CoreCompileInputs.cache
+C:\CSharp\CatchWhenExample\CatchWhenExample\obj\Debug\CatchWhenExample.exe
+C:\CSharp\CatchWhenExample\CatchWhenExample\obj\Debug\CatchWhenExample.pdb

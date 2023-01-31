@@ -1,0 +1,14 @@
+C:\CSharp\FileLinesExample\FileLinesExample\bin\Debug\FileLinesExample.exe.config
+C:\CSharp\FileLinesExample\FileLinesExample\bin\Debug\FileLinesExample.exe
+C:\CSharp\FileLinesExample\FileLinesExample\bin\Debug\FileLinesExample.pdb
+C:\CSharp\FileLinesExample\FileLinesExample\obj\Debug\FileLinesExample.csproj.CoreCompileInputs.cache
+C:\CSharp\FileLinesExample\FileLinesExample\obj\Debug\FileLinesExample.exe
+C:\CSharp\FileLinesExample\FileLinesExample\obj\Debug\FileLinesExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File+Read+and+Write\FileLinesExample\FileLinesExample\bin\Debug\FileLinesExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File+Read+and+Write\FileLinesExample\FileLinesExample\bin\Debug\FileLinesExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File+Read+and+Write\FileLinesExample\FileLinesExample\bin\Debug\FileLinesExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File+Read+and+Write\FileLinesExample\FileLinesExample\obj\Debug\FileLinesExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File+Read+and+Write\FileLinesExample\FileLinesExample\obj\Debug\FileLinesExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File+Read+and+Write\FileLinesExample\FileLinesExample\obj\Debug\FileLinesExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File+Read+and+Write\FileLinesExample\FileLinesExample\obj\Debug\FileLinesExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File+Read+and+Write\FileLinesExample\FileLinesExample\obj\Debug\FileLinesExample.pdb

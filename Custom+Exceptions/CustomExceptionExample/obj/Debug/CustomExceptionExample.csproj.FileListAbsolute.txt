@@ -1,0 +1,15 @@
+c:\CSharp\CustomExceptionExample\CustomExceptionExample\obj\Debug\CustomExceptionExample.csproj.AssemblyReference.cache
+c:\CSharp\CustomExceptionExample\CustomExceptionExample\obj\Debug\CustomExceptionExample.csproj.CoreCompileInputs.cache
+c:\CSharp\CustomExceptionExample\CustomExceptionExample\bin\Debug\CustomExceptionExample.exe.config
+c:\CSharp\CustomExceptionExample\CustomExceptionExample\bin\Debug\CustomExceptionExample.exe
+c:\CSharp\CustomExceptionExample\CustomExceptionExample\bin\Debug\CustomExceptionExample.pdb
+c:\CSharp\CustomExceptionExample\CustomExceptionExample\obj\Debug\CustomExceptionExample.exe
+c:\CSharp\CustomExceptionExample\CustomExceptionExample\obj\Debug\CustomExceptionExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Custom+Exceptions\CustomExceptionExample\bin\Debug\CustomExceptionExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Custom+Exceptions\CustomExceptionExample\bin\Debug\CustomExceptionExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Custom+Exceptions\CustomExceptionExample\bin\Debug\CustomExceptionExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Custom+Exceptions\CustomExceptionExample\obj\Debug\CustomExceptionExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Custom+Exceptions\CustomExceptionExample\obj\Debug\CustomExceptionExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Custom+Exceptions\CustomExceptionExample\obj\Debug\CustomExceptionExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Custom+Exceptions\CustomExceptionExample\obj\Debug\CustomExceptionExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Custom+Exceptions\CustomExceptionExample\obj\Debug\CustomExceptionExample.pdb

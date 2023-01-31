@@ -1,0 +1,7 @@
+C:\CSharp\BinaryWriterReaderExample\BinaryWriterReaderExample\bin\Debug\BinaryWriterReaderExample.exe.config
+C:\CSharp\BinaryWriterReaderExample\BinaryWriterReaderExample\bin\Debug\BinaryWriterReaderExample.exe
+C:\CSharp\BinaryWriterReaderExample\BinaryWriterReaderExample\bin\Debug\BinaryWriterReaderExample.pdb
+C:\CSharp\BinaryWriterReaderExample\BinaryWriterReaderExample\obj\Debug\BinaryWriterReaderExample.csproj.AssemblyReference.cache
+C:\CSharp\BinaryWriterReaderExample\BinaryWriterReaderExample\obj\Debug\BinaryWriterReaderExample.csproj.CoreCompileInputs.cache
+C:\CSharp\BinaryWriterReaderExample\BinaryWriterReaderExample\obj\Debug\BinaryWriterReaderExample.exe
+C:\CSharp\BinaryWriterReaderExample\BinaryWriterReaderExample\obj\Debug\BinaryWriterReaderExample.pdb

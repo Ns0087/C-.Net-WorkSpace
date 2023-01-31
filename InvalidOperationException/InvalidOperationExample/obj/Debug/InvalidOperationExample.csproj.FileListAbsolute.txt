@@ -1,0 +1,15 @@
+C:\CSharp\InvalidOperationExample\InvalidOperationExample\bin\Debug\InvalidOperationExample.exe.config
+C:\CSharp\InvalidOperationExample\InvalidOperationExample\bin\Debug\InvalidOperationExample.exe
+C:\CSharp\InvalidOperationExample\InvalidOperationExample\bin\Debug\InvalidOperationExample.pdb
+C:\CSharp\InvalidOperationExample\InvalidOperationExample\obj\Debug\InvalidOperationExample.csproj.AssemblyReference.cache
+C:\CSharp\InvalidOperationExample\InvalidOperationExample\obj\Debug\InvalidOperationExample.csproj.CoreCompileInputs.cache
+C:\CSharp\InvalidOperationExample\InvalidOperationExample\obj\Debug\InvalidOperationExample.exe
+C:\CSharp\InvalidOperationExample\InvalidOperationExample\obj\Debug\InvalidOperationExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\InvalidOperationException\InvalidOperationExample\bin\Debug\InvalidOperationExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\InvalidOperationException\InvalidOperationExample\bin\Debug\InvalidOperationExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\InvalidOperationException\InvalidOperationExample\bin\Debug\InvalidOperationExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\InvalidOperationException\InvalidOperationExample\obj\Debug\InvalidOperationExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\InvalidOperationException\InvalidOperationExample\obj\Debug\InvalidOperationExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\InvalidOperationException\InvalidOperationExample\obj\Debug\InvalidOperationExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\InvalidOperationException\InvalidOperationExample\obj\Debug\InvalidOperationExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\InvalidOperationException\InvalidOperationExample\obj\Debug\InvalidOperationExample.pdb

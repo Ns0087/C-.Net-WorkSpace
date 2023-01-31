@@ -1,0 +1,7 @@
+C:\CSharp\BinarySerializationExample\BinarySerializationExample\bin\Debug\BinarySerializationExample.exe.config
+C:\CSharp\BinarySerializationExample\BinarySerializationExample\bin\Debug\BinarySerializationExample.exe
+C:\CSharp\BinarySerializationExample\BinarySerializationExample\bin\Debug\BinarySerializationExample.pdb
+C:\CSharp\BinarySerializationExample\BinarySerializationExample\obj\Debug\BinarySerializationExample.csproj.AssemblyReference.cache
+C:\CSharp\BinarySerializationExample\BinarySerializationExample\obj\Debug\BinarySerializationExample.csproj.CoreCompileInputs.cache
+C:\CSharp\BinarySerializationExample\BinarySerializationExample\obj\Debug\BinarySerializationExample.exe
+C:\CSharp\BinarySerializationExample\BinarySerializationExample\obj\Debug\BinarySerializationExample.pdb

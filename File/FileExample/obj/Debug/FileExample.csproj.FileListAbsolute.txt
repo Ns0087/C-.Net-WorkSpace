@@ -1,0 +1,15 @@
+c:\CSharp\FileExample\FileExample\obj\Debug\FileExample.csproj.AssemblyReference.cache
+c:\CSharp\FileExample\FileExample\obj\Debug\FileExample.csproj.CoreCompileInputs.cache
+c:\CSharp\FileExample\FileExample\bin\Debug\FileExample.exe.config
+c:\CSharp\FileExample\FileExample\bin\Debug\FileExample.exe
+c:\CSharp\FileExample\FileExample\bin\Debug\FileExample.pdb
+c:\CSharp\FileExample\FileExample\obj\Debug\FileExample.exe
+c:\CSharp\FileExample\FileExample\obj\Debug\FileExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File\FileExample\bin\Debug\FileExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File\FileExample\bin\Debug\FileExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File\FileExample\bin\Debug\FileExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File\FileExample\obj\Debug\FileExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File\FileExample\obj\Debug\FileExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File\FileExample\obj\Debug\FileExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File\FileExample\obj\Debug\FileExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\File\FileExample\obj\Debug\FileExample.pdb

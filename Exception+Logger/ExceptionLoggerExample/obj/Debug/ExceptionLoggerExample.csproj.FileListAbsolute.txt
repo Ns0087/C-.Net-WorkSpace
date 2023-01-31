@@ -1,0 +1,15 @@
+C:\CSharp\ExceptionLoggerExample\ExceptionLoggerExample\bin\Debug\ExceptionLoggerExample.exe.config
+C:\CSharp\ExceptionLoggerExample\ExceptionLoggerExample\bin\Debug\ExceptionLoggerExample.exe
+C:\CSharp\ExceptionLoggerExample\ExceptionLoggerExample\bin\Debug\ExceptionLoggerExample.pdb
+C:\CSharp\ExceptionLoggerExample\ExceptionLoggerExample\obj\Debug\ExceptionLoggerExample.csproj.AssemblyReference.cache
+C:\CSharp\ExceptionLoggerExample\ExceptionLoggerExample\obj\Debug\ExceptionLoggerExample.csproj.CoreCompileInputs.cache
+C:\CSharp\ExceptionLoggerExample\ExceptionLoggerExample\obj\Debug\ExceptionLoggerExample.exe
+C:\CSharp\ExceptionLoggerExample\ExceptionLoggerExample\obj\Debug\ExceptionLoggerExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Exception+Logger\ExceptionLoggerExample\bin\Debug\ExceptionLoggerExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Exception+Logger\ExceptionLoggerExample\bin\Debug\ExceptionLoggerExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Exception+Logger\ExceptionLoggerExample\bin\Debug\ExceptionLoggerExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Exception+Logger\ExceptionLoggerExample\obj\Debug\ExceptionLoggerExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Exception+Logger\ExceptionLoggerExample\obj\Debug\ExceptionLoggerExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Exception+Logger\ExceptionLoggerExample\obj\Debug\ExceptionLoggerExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Exception+Logger\ExceptionLoggerExample\obj\Debug\ExceptionLoggerExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Exception+Logger\ExceptionLoggerExample\obj\Debug\ExceptionLoggerExample.pdb

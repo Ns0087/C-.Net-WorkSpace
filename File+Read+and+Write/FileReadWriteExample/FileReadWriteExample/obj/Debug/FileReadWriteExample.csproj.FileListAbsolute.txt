@@ -1,0 +1,6 @@
+C:\CSharp\FileReadWriteExample\FileReadWriteExample\bin\Debug\FileReadWriteExample.exe.config
+C:\CSharp\FileReadWriteExample\FileReadWriteExample\bin\Debug\FileReadWriteExample.exe
+C:\CSharp\FileReadWriteExample\FileReadWriteExample\bin\Debug\FileReadWriteExample.pdb
+C:\CSharp\FileReadWriteExample\FileReadWriteExample\obj\Debug\FileReadWriteExample.csproj.CoreCompileInputs.cache
+C:\CSharp\FileReadWriteExample\FileReadWriteExample\obj\Debug\FileReadWriteExample.exe
+C:\CSharp\FileReadWriteExample\FileReadWriteExample\obj\Debug\FileReadWriteExample.pdb

@@ -14,7 +14,14 @@ namespace User_Defined_Exception_Example
         // Constructor
         public DivByZero()
         {
-            Console.Write("Exception has occurred : Divide by 0 is not Allowed!! : ");
+        }
+
+        public DivByZero(string message) : base(message)
+        {
+        }
+
+        public DivByZero(string message, Exception innerException) : base(message, innerException)
+        {
         }
     }
 
@@ -27,7 +34,7 @@ namespace User_Defined_Exception_Example
             // throw exception when denominator
             // value is 0
             if (denominator == 0)
-                throw new DivByZero();
+                throw new DivByZero("Divide by 0 is not allowed!!");
 
             // Otherwise return the result of the division
             return numerator / denominator;
@@ -43,6 +50,10 @@ namespace User_Defined_Exception_Example
                 // Code block that may cause an exception
                 quotient = obj.DivisionOperation(num, den);
                 Console.WriteLine("Quotient = {0}", quotient);
+            }
+            catch(DivByZero e)
+            {
+                Console.WriteLine(e.Message);
             }
             // Catch block to catch the generic exception
             catch (Exception e)

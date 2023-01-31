@@ -1,0 +1,7 @@
+C:\CSharp\ArgumentExceptionExample\ArgumentExceptionExample\bin\Debug\ArgumentExceptionExample.exe.config
+C:\CSharp\ArgumentExceptionExample\ArgumentExceptionExample\bin\Debug\ArgumentExceptionExample.exe
+C:\CSharp\ArgumentExceptionExample\ArgumentExceptionExample\bin\Debug\ArgumentExceptionExample.pdb
+C:\CSharp\ArgumentExceptionExample\ArgumentExceptionExample\obj\Debug\ArgumentExceptionExample.csproj.AssemblyReference.cache
+C:\CSharp\ArgumentExceptionExample\ArgumentExceptionExample\obj\Debug\ArgumentExceptionExample.csproj.CoreCompileInputs.cache
+C:\CSharp\ArgumentExceptionExample\ArgumentExceptionExample\obj\Debug\ArgumentExceptionExample.exe
+C:\CSharp\ArgumentExceptionExample\ArgumentExceptionExample\obj\Debug\ArgumentExceptionExample.pdb

@@ -1,0 +1,8 @@
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stack+Trace\StackTraceExample\bin\Debug\StackTraceExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stack+Trace\StackTraceExample\bin\Debug\StackTraceExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stack+Trace\StackTraceExample\bin\Debug\StackTraceExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stack+Trace\StackTraceExample\obj\Debug\StackTraceExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stack+Trace\StackTraceExample\obj\Debug\StackTraceExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stack+Trace\StackTraceExample\obj\Debug\StackTraceExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stack+Trace\StackTraceExample\obj\Debug\StackTraceExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stack+Trace\StackTraceExample\obj\Debug\StackTraceExample.pdb

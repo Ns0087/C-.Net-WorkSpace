@@ -1,0 +1,7 @@
+C:\CSharp\DirectoryInfoExample\DirectoryInfoExample\bin\Debug\DirectoryInfoExample.exe.config
+C:\CSharp\DirectoryInfoExample\DirectoryInfoExample\bin\Debug\DirectoryInfoExample.exe
+C:\CSharp\DirectoryInfoExample\DirectoryInfoExample\bin\Debug\DirectoryInfoExample.pdb
+C:\CSharp\DirectoryInfoExample\DirectoryInfoExample\obj\Debug\DirectoryInfoExample.csproj.AssemblyReference.cache
+C:\CSharp\DirectoryInfoExample\DirectoryInfoExample\obj\Debug\DirectoryInfoExample.csproj.CoreCompileInputs.cache
+C:\CSharp\DirectoryInfoExample\DirectoryInfoExample\obj\Debug\DirectoryInfoExample.exe
+C:\CSharp\DirectoryInfoExample\DirectoryInfoExample\obj\Debug\DirectoryInfoExample.pdb

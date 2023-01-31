@@ -1,0 +1,7 @@
+C:\CSharp\FileInfoPropertiesExample\FileInfoPropertiesExample\bin\Debug\FileInfoPropertiesExample.exe.config
+C:\CSharp\FileInfoPropertiesExample\FileInfoPropertiesExample\bin\Debug\FileInfoPropertiesExample.exe
+C:\CSharp\FileInfoPropertiesExample\FileInfoPropertiesExample\bin\Debug\FileInfoPropertiesExample.pdb
+C:\CSharp\FileInfoPropertiesExample\FileInfoPropertiesExample\obj\Debug\FileInfoPropertiesExample.csproj.AssemblyReference.cache
+C:\CSharp\FileInfoPropertiesExample\FileInfoPropertiesExample\obj\Debug\FileInfoPropertiesExample.csproj.CoreCompileInputs.cache
+C:\CSharp\FileInfoPropertiesExample\FileInfoPropertiesExample\obj\Debug\FileInfoPropertiesExample.exe
+C:\CSharp\FileInfoPropertiesExample\FileInfoPropertiesExample\obj\Debug\FileInfoPropertiesExample.pdb
