@@ -1,0 +1,15 @@
+c:\CSharp\InnerExceptionExample\InnerExceptionExample\bin\Debug\InnerExceptionExample.exe.config
+c:\CSharp\InnerExceptionExample\InnerExceptionExample\bin\Debug\InnerExceptionExample.exe
+c:\CSharp\InnerExceptionExample\InnerExceptionExample\bin\Debug\InnerExceptionExample.pdb
+c:\CSharp\InnerExceptionExample\InnerExceptionExample\obj\Debug\InnerExceptionExample.csproj.AssemblyReference.cache
+c:\CSharp\InnerExceptionExample\InnerExceptionExample\obj\Debug\InnerExceptionExample.csproj.CoreCompileInputs.cache
+c:\CSharp\InnerExceptionExample\InnerExceptionExample\obj\Debug\InnerExceptionExample.exe
+c:\CSharp\InnerExceptionExample\InnerExceptionExample\obj\Debug\InnerExceptionExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inner+Exception\InnerExceptionExample\bin\Debug\InnerExceptionExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inner+Exception\InnerExceptionExample\bin\Debug\InnerExceptionExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inner+Exception\InnerExceptionExample\bin\Debug\InnerExceptionExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inner+Exception\InnerExceptionExample\obj\Debug\InnerExceptionExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inner+Exception\InnerExceptionExample\obj\Debug\InnerExceptionExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inner+Exception\InnerExceptionExample\obj\Debug\InnerExceptionExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inner+Exception\InnerExceptionExample\obj\Debug\InnerExceptionExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inner+Exception\InnerExceptionExample\obj\Debug\InnerExceptionExample.pdb

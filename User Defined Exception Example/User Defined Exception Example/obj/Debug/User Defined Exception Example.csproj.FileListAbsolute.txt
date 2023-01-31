@@ -1,0 +1,8 @@
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\User Defined Exception Example\User Defined Exception Example\bin\Debug\User Defined Exception Example.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\User Defined Exception Example\User Defined Exception Example\bin\Debug\User Defined Exception Example.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\User Defined Exception Example\User Defined Exception Example\bin\Debug\User Defined Exception Example.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\User Defined Exception Example\User Defined Exception Example\obj\Debug\User Defined Exception Example.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\User Defined Exception Example\User Defined Exception Example\obj\Debug\User Defined Exception Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\User Defined Exception Example\User Defined Exception Example\obj\Debug\User Defined Exception Example.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\User Defined Exception Example\User Defined Exception Example\obj\Debug\User Defined Exception Example.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\User Defined Exception Example\User Defined Exception Example\obj\Debug\User Defined Exception Example.pdb
