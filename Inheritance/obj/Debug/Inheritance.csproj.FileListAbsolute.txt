@@ -12,3 +12,11 @@ C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Inheritance\obj\Debug\Inheri
 C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Inheritance\bin\Debug\Inheritance.exe.config
 C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Inheritance\bin\Debug\Inheritance.exe
 C:\Users\Admin\Source\Repos\Ns0087\C-.Net-WorkSpace\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Inheritance\obj\Debug\Inheritance.pdb

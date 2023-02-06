@@ -11,7 +11,8 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
-            A obj = new B();
+            A obj;
+            obj= new B();
             obj.methodA();
             ReadKey();
         }

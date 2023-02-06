@@ -16,16 +16,16 @@ namespace Inheritance
         }
 
         //This method can't be further overridden
-        internal sealed override void methodA()
-        {
-            base.methodA();
-            WriteLine("Class A method overridden in Class B");
-        }
-
-        //Method Hiding
-        //internal new void methodA()
+        //internal sealed override void methodA()
         //{
+        //    base.methodA();
         //    WriteLine("Class A method overridden in Class B");
         //}
+
+        //Method Hiding
+        internal new void methodA()
+        {
+            WriteLine("Class A method overridden in Class B");
+        }
     }
 }

@@ -5,3 +5,11 @@ C:\CSharp\FileInfoExample\FileInfoExample\obj\Debug\FileInfoExample.csproj.Assem
 C:\CSharp\FileInfoExample\FileInfoExample\obj\Debug\FileInfoExample.csproj.CoreCompileInputs.cache
 C:\CSharp\FileInfoExample\FileInfoExample\obj\Debug\FileInfoExample.exe
 C:\CSharp\FileInfoExample\FileInfoExample\obj\Debug\FileInfoExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\FileInfo\FileInfoExample\bin\Debug\FileInfoExample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\FileInfo\FileInfoExample\bin\Debug\FileInfoExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\FileInfo\FileInfoExample\bin\Debug\FileInfoExample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\FileInfo\FileInfoExample\obj\Debug\FileInfoExample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\FileInfo\FileInfoExample\obj\Debug\FileInfoExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\FileInfo\FileInfoExample\obj\Debug\FileInfoExample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\FileInfo\FileInfoExample\obj\Debug\FileInfoExample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\FileInfo\FileInfoExample\obj\Debug\FileInfoExample.pdb

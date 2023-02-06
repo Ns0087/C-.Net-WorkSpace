@@ -1,0 +1,8 @@
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Reflection Example 02\Reflection Example 02\bin\Debug\Reflection Example 02.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Reflection Example 02\Reflection Example 02\bin\Debug\Reflection Example 02.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Reflection Example 02\Reflection Example 02\bin\Debug\Reflection Example 02.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Reflection Example 02\Reflection Example 02\obj\Debug\Reflection Example 02.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Reflection Example 02\Reflection Example 02\obj\Debug\Reflection Example 02.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Reflection Example 02\Reflection Example 02\obj\Debug\Reflection Example 02.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Reflection Example 02\Reflection Example 02\obj\Debug\Reflection Example 02.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Reflection Example 02\Reflection Example 02\obj\Debug\Reflection Example 02.pdb

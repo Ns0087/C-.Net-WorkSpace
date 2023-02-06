@@ -11,15 +11,15 @@ namespace Inheritance
     class A
     {
         //Overriding
-        internal virtual void methodA()
-        {
-            WriteLine("Class A method");
-        }
-
-        //Method Hiding
-        //internal void methodA()
+        //internal virtual void methodA()
         //{
         //    WriteLine("Class A method");
         //}
+
+        //Method Hiding
+        internal void methodA()
+        {
+            Console.WriteLine("class A method");
+        }
     }
 }

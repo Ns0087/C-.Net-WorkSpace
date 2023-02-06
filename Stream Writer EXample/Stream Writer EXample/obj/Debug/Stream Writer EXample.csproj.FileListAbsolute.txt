@@ -1,0 +1,8 @@
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stream Writer EXample\Stream Writer EXample\bin\Debug\Stream Writer EXample.exe.config
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stream Writer EXample\Stream Writer EXample\bin\Debug\Stream Writer EXample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stream Writer EXample\Stream Writer EXample\bin\Debug\Stream Writer EXample.pdb
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stream Writer EXample\Stream Writer EXample\obj\Debug\Stream Writer EXample.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stream Writer EXample\Stream Writer EXample\obj\Debug\Stream Writer EXample.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stream Writer EXample\Stream Writer EXample\obj\Debug\Stream Writer EXample.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stream Writer EXample\Stream Writer EXample\obj\Debug\Stream Writer EXample.exe
+C:\Users\abhad\source\repos\Ns0087\C-Net-WorkSpace\Stream Writer EXample\Stream Writer EXample\obj\Debug\Stream Writer EXample.pdb

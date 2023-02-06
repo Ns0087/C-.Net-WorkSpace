@@ -44,7 +44,7 @@ namespace CatchWhenExample
     {
         public static void AddException(Exception ex)
         {
-            string filePath = @"c:\practice\ErrorLog.txt";
+            string filePath = @"C:\Users\abhad\Desktop\Practice\ErrorLog.txt";
             StreamWriter streamWriter = File.AppendText(filePath);
             streamWriter.WriteLine("\n\nException on " + DateTime.Now);
             streamWriter.WriteLine(ex.GetType().ToString());

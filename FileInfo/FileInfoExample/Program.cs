@@ -7,9 +7,9 @@ namespace FileInfoExample
     {
         static void Main()
         {
-            string filePath = @"c:\practice\japan.txt";
-            string destPath = @"c:\practice\another.txt";
-            string destPath2 = @"c:\practice\somethingelse.txt";
+            string filePath = @"C:\Users\abhad\Desktop\Practice\japan.txt";
+            string destPath = @"C:\Users\abhad\Desktop\Practice\another.txt";
+            string destPath2 = @"C:\Users\abhad\Desktop\Practice\somethingelse.txt";
 
             FileInfo fileInfo = new FileInfo(filePath);
 

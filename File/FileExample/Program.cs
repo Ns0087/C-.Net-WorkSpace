@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using static System.IO.File;
 
 namespace FileExample
 {
@@ -9,10 +10,10 @@ namespace FileExample
         {
             string filePath = @"C:\Users\abhad\Desktop\Practice\India.txt", filePath2 = @"C:\Users\abhad\Desktop\Practice\India2.txt", filePath3 = @"C:\Users\abhad\Desktop\Practice\another.txt";
 
-            File.Create(filePath).Close();
+            Create(filePath).Close();
             Console.WriteLine("India.txt created");
 
-            bool exists = File.Exists(filePath);
+            bool exists = Exists(filePath);
             if (exists)
             {
                 File.Copy(filePath, filePath2);
