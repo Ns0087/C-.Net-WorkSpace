@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 
 namespace myApp02.Extensions
 {
-    public static class EmployeeExtension
+    public static class ToModelExtension
     {
         public static T2 OneTwoKaFour<T1, T2>(this T1 model)
         {
