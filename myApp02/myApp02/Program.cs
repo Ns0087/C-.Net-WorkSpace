@@ -12,7 +12,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext <ApplicationDBContext> (options => options.UseSqlServer(builder.Configuration.GetConnectionString("EmployeeCS")));
 builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
-builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+//builder.Services.AddScoped<IEmployeeService, EmployeeService>();
 builder.Services.AddTransient<IEmployeeService, EmployeeService>();
 
 builder.Services.AddControllers();

@@ -39,5 +39,19 @@ namespace myApp02.Controllers
         {
             return await _employeeService.AddEmployeeAsync(employee);
         }
+
+        [HttpPut("{id}")]
+        public async Task<string> UpdateEmployeeAsync(int id, EmployeeResponseModel employee)
+        {
+            if (await _employeeService.UpdateEmployeeAsync(id, employee) > 0) { return "Success"; }
+            else return "Please Try again later!!";
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<string> DeleteEmployeeByIdAsync(int id)
+        {
+            if (await _employeeService.DeleteEmployeeByIdAsync(id) > 0) { return "Success"; }
+            else return "Please Try again later!!";
+        }
     }
 }

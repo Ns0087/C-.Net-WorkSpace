@@ -42,5 +42,16 @@ namespace myApp02.Services.Implementations
             return _employeeRepository.AddEmployeeAsync(input);
         }
 
+        public async Task<int> UpdateEmployeeAsync(int id, EmployeeResponseModel employee)
+        {
+            var input = employee.OneTwoKaFour<EmployeeResponseModel, Employee>();
+            return await _employeeRepository.UpdateEmployeeAsync(id, input);
+        }
+
+        public async Task<int> DeleteEmployeeByIdAsync(int id)
+        {
+            return await _employeeRepository.DeleteEmployeeByIdAsync(id);
+        }
+
     }
 }

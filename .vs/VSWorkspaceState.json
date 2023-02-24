@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\myApp02",
+    "\\myApp02\\myApp02",
+    "\\myApp02\\myApp02\\Controllers"
   ],
+  "SelectedNode": "\\myApp02\\myApp02\\Controllers\\EmployeeController.cs",
   "PreviewInSolutionExplorer": false
 }
